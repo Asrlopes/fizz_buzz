@@ -29,6 +29,14 @@
 - Guards
 - Testes
 
+## O problema
+
+<p>Criar um array de uma quantidade x de numeros onde devemos substituir</p>
+
+- Múltiplos de 3 por Fizz
+- Múltiplos de 5 por Buzz
+- Múltiplos de 3 e 5 por FizzBuzz
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
