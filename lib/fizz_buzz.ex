@@ -10,6 +10,7 @@ defmodule FizzBuzz do
       result
       |> String.split(",")
       |> Enum.map(&convert_and_evaluate_numbers/1)
+
     {:ok, result}
   end
 
